@@ -54,7 +54,7 @@ Expanding my skills in **serverless architectures** and **CI/CD pipelines**.
 
 ## 📫 How to Reach Me  
 📧 `simon98larsson@gmail.com`  
-💻 [github.com/simonkod2021](https://github.com/simonkod2021)
+💻 [LinkedIn](https://www.linkedin.com/in/simon-larsson-912227317/)
 
 ---
 
