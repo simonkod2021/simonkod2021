@@ -48,7 +48,7 @@ Expanding my skills in **serverless architectures** and **CI/CD pipelines**.
 ---
 
 ## 💼 Available for Hire  
-[![Open for opportunities](https://img.shields.io/badge/Open_to_Work-blue?style=for-the-badge&logo=handshake&logoColor=white)](mailto:your.email@example.com)
+[![Open for opportunities](https://img.shields.io/badge/Open_to_Work-blue?style=for-the-badge&logo=handshake&logoColor=white)]
 
 ---
 
