@@ -35,11 +35,9 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [**Project A**](#) | A full-stack app using React + Spring Boot | React, Java, Spring Boot, SQL |
-| [**Project B**](#) | RESTful API backend for modern apps | Java, Spring Boot, MongoDB |
-| [**Project C**](#) | Cloud-deployed app on AWS | React, AWS, MongoDB |
-
-*(Replace with your actual repos and descriptions!)*
+| [**Project A**](https://github.com/simonkod2021/simon-security-server) | A Blogpost API | Java, Spring Boot, MongoDB |
+| [**Project B**](https://github.com/simonkod2021/simon-frontend) | Frontend for Blogpost API | React, CSS |
+| [**Project C**](https://github.com/simonkod2021/30-days-of-javascript) | Refreshing JavaScript daily | HTML, CSS, JS |
 
 ---
 
@@ -55,13 +53,13 @@ Expanding my skills in **serverless architectures** and **CI/CD pipelines**.
 ---
 
 ## 📫 How to Reach Me  
-📧 `your.email@example.com`  
+📧 `simon98larsson@gmail.com`  
 💻 [github.com/simonkod2021](https://github.com/simonkod2021)
 
 ---
 
 ## 🎯 Fun Fact  
-When I’m not coding, I enjoy [insert your hobby here].
+When I’m not coding, I enjoy playing games or taking walks.
 
 ---
 
