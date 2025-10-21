@@ -1,5 +1,5 @@
 # Hi there, I’m **simonkod2021** 👋  
-![Particles](https://raw.githubusercontent.com/simonkod2021/simonkod2021/main/particles.gif)
+![Particles](https://github.com/simonkod2021/simonkod2021/blob/main/particles.gif)
 **Full-stack developer** building modern web apps with JavaScript, Java, and cloud-native tools.
 
 ---
